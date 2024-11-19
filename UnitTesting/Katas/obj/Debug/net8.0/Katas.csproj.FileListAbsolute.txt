@@ -1,0 +1,12 @@
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\bin\Debug\net8.0\Katas.deps.json
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\bin\Debug\net8.0\Katas.dll
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\bin\Debug\net8.0\Katas.pdb
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\Katas.AssemblyInfoInputs.cache
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\Katas.AssemblyInfo.cs
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\Katas.csproj.CoreCompileInputs.cache
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\Katas.sourcelink.json
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\Katas.dll
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\refint\Katas.dll
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\Katas.pdb
+C:\BUCKET\DOT_NET\Learn_7\UnitTesting\Katas\obj\Debug\net8.0\ref\Katas.dll
